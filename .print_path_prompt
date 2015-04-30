@@ -1,4 +1,7 @@
-#alias ppp='. ~/.print_path_prompt.sh'
+# print directory path in prompt and tab title
+# example usage
+# alias ppp='. ~/.print_path_prompt.sh'
+# alias proj42='cd ~/Code/myproject_42/ ; ppp'
 
 MYPATH="${PWD##*/}"
 export PS1="/"$MYPATH" |: "
