@@ -1,6 +1,6 @@
 # .dotfiles
 ------
-**.print_path_prompt**
+**.print_path_prompt.sh**
 
 For chaining onto aliases when changing directories.
 ```
