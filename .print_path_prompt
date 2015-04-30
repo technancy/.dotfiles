@@ -1,0 +1,5 @@
+#alias ppp='. ~/.print_path_prompt.sh'
+
+MYPATH="${PWD##*/}"
+export PS1="/"$MYPATH" |: "
+echo -e "\033];"$MYPATH"\007"
