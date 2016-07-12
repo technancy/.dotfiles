@@ -1,0 +1,13 @@
+brew install apple-gcc42
+brew install mongodb
+brew install chruby	
+brew install redis
+brew install nginx	
+brew install ruby-build
+brew install openssl
+brew install ruby-install
+brew install openssl098
+brew install varnish
+brew install git
+brew install memcached	
+brew install zsh
